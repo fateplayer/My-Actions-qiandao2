@@ -4,7 +4,7 @@
 @File    :   bika.py
 @Time    :   2023-01-28 15:53:56
 @Author  :   yikoyu
-@Version :   1.0 
+@Version :   1.0
 @Desc    :   自动打哔咔 
 """
 
